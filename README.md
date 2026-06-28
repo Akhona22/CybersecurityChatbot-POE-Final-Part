@@ -15,3 +15,5 @@ PROG6221 Final POE
 - Professional WPF interface
 
 Developed using C# (.NET WPF) and MySQL.
+## Installation
+Open the solution in Visual Studio and build the project.
